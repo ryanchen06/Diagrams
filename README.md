@@ -12,11 +12,3 @@ Handling Producer Connection:
 Consuming the String:  
     It is completely up to the ConsumerServiceSMS to consume the received events and do something with them.
       
-2012-10-22  
-New feature: added google protocol buffer 
-
-2012-11-14  
-New feature: versionaire is added
-
-2012-11-20
-
